@@ -1,0 +1,4 @@
+Nom:Ridouane
+Prenom:Salifou
+Lieu de naissance:Niamey
+
